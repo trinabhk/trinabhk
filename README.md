@@ -3,7 +3,7 @@
 Technical SEO Analyst at SmartSites, based in Kathmandu.
 
 I work on crawlability, indexing and site structure across WordPress,
-Shopify, Squarespace, Magento and Wix — and build small tools when the
+Shopify, Squarespace, Magento and Wix - and build small tools when the
 manual version gets tedious.
 
 **Currently**
