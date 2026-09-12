@@ -1,16 +1,19 @@
-## Hi there 👋
+## Trinabh Karki
 
-<!--
-**trinabhk/trinabhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical SEO Analyst at SmartSites, based in Kathmandu.
 
-Here are some ideas to get you started:
+I work on crawlability, indexing and site structure across WordPress,
+Shopify, Squarespace, Magento and Wix — and build small tools when the
+manual version gets tedious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Indexation monitoring via the Search Console URL Inspection API
+- A PHP script that surfaces internal linking opportunities at scale
+- Going deeper on JavaScript SEO and how rendering affects crawling
+
+**Also**
+- [trinabh.com.np](https://trinabh.com.np) — my site, built and maintained here
+- [LinkedIn](https://www.linkedin.com/in/trinabhkarki/)
+- BCA student at Jaya Multiple Campus
+
+Kathmandu, Nepal
