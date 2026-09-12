@@ -12,7 +12,7 @@ manual version gets tedious.
 - Going deeper on JavaScript SEO and how rendering affects crawling
 
 **Also**
-- [trinabh.com.np](https://trinabh.com.np) — my site, built and maintained here
+- [trinabh.com.np](https://trinabh.com.np) - my site, built and maintained here
 - [LinkedIn](https://www.linkedin.com/in/trinabhkarki/)
 - BCA student at Jaya Multiple Campus
 
