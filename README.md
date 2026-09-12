@@ -1,6 +1,6 @@
 ## Trinabh Karki
 
-Technical SEO Analyst at SmartSites, based in Kathmandu.
+Technical SEO Analyst, based in Kathmandu.
 
 I work on crawlability, indexing and site structure across WordPress,
 Shopify, Squarespace, Magento and Wix - and build small tools when the
